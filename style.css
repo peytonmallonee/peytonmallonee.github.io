@@ -7,6 +7,10 @@ a{
     color:inherit;
     list-style-type:none;
 }
+ul
+{
+list-style-type: none;
+}
 #referee
 {
     background-color:lightblue;
