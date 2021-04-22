@@ -10,10 +10,12 @@ a{
 ul
 {
 list-style-type: none;
+padding: 45px;
 }
 #referee
 {
     background-color:lightblue;
+
 }
 #waitress
 {
